@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Personal attributes:-** Honesty, Empathy, Gratitude, Humorous, Learning attitude\
+**Skills:-** Communication, WholeHearted, Problem solving\
+**Pogramming languages:-** _C, Java, C++, Python, SQL, HTML_
